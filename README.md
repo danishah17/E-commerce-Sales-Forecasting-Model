@@ -45,12 +45,14 @@ This repository contains a Python-based project for forecasting sales using the 
 | File | Description |
 |------|-------------|
 | `E-commerce_model.py` | Main script for data cleaning, EDA, and Prophet forecasting |
-| `cleaned_ecommerce_data.csv` | Cleaned dataset after preprocessing |
 | `forecast_Mobiles & Tablets.csv` | Forecasted sales values for the selected category |
 | `forecast_plot_Mobiles & Tablets.png` | Sales forecast visualization |
 | `forecast_components_Mobiles & Tablets.png` | Prophet components: trend, weekly/yearly seasonality, holidays |
 | `actual_vs_predicted_Mobiles & Tablets.png` | Plot comparing actual vs. predicted sales values |
-
+| `Code 1.png` | Code Screenshot |
+| `Code 2.png` | Code Screenshot |
+| `Output1.png` | Output Screenshot |
+| `Output12.png` | Output Screenshot |
 ---
 
 
